@@ -1,7 +1,6 @@
 # SOC-Labs-2026
 
 ## About This Repository
-
 This repository documents my hands-on cybersecurity learning journey, focusing on Security Operations Center (SOC) operations, blue team security, threat detection, and incident investigation.
 
 I created this repository to keep my practical lab work, investigation notes, and key learnings organized in one place as I continue developing my cybersecurity skills.
@@ -81,7 +80,7 @@ Through these practical labs and exercises, I am working to improve my knowledge
 
 ## Continuous Learning
 
-Cybersecurity is a constantly evolving field, and I believe consistent practice is an important part of developing practical skills.
+Cybersecurity is a constantly evolving field, and I believe consistent practice is an important part of developing practical skills
 
 I will continue updating this repository as I complete new labs, explore additional security platforms, and improve my understanding of SOC operations and blue team security.
 
