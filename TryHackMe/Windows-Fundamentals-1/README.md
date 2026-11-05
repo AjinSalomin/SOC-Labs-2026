@@ -6,7 +6,7 @@
 
 ## Overview
 
-Completed the **Windows Fundamentals 1** room on TryHackMe as part of my Cybersecurity and SOC Analyst learning journey.
+Completed the **Windows Fundamentals 1** room on TryHackMe as part of my Cybersecurity and SOC Analyst learning journey
 
 This room helped me understand the fundamentals of the Windows operating system and important Windows components from a cybersecurity perspective.
 
