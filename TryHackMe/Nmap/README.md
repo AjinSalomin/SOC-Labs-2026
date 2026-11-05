@@ -2,7 +2,7 @@
 
 ## Overview
 
-I completed the Nmap room on TryHackMe as part of my cybersecurity and SOC Analyst learning journey.
+I completed the Nmap room on TryHackMe as part of my cybersecurity and SOC Analyst learning journey
 
 This room helped me understand how Nmap can be used for network discovery, port scanning, service enumeration, OS detection, and vulnerability assessment.
 
